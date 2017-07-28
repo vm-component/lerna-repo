@@ -1,6 +1,6 @@
 {
   "name": "vm-test",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A config service for H5 mobile App",
   "main": "index.js",
   "scripts": {
