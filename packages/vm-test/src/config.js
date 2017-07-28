@@ -27,6 +27,8 @@
  * 可通过set方法添加自定义的配置信息
  * config.set('ios', 'favoriteColor', 'green');
  * config.get('favoriteColor'); // 'green' when iOS
+ * config.get('favoriteColor'); // 'green' when iOS
+ * config.get('favoriteColor'); // 'green' when iOS
  *
  **/
 
